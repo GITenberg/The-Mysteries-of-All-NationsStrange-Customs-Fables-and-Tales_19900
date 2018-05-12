@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '46659'
     url: http://www.gutenberg.org/2009/agents/46659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19900#The-Mysteries-of-All-NationsStrange-Customs-Fables-and-Tales
 gutenberg_bookshelf: Witchcraft
 gutenberg_issued: '2006-11-23'
 gutenberg_type: Text
